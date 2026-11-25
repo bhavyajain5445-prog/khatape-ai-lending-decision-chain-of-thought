@@ -1,3 +1,4 @@
+[Chitkara_BBA_FinTech_Prompt_Engineering_Day1_Learning_Guide (2).docx](https://github.com/user-attachments/files/35415304/Chitkara_BBA_FinTech_Prompt_Engineering_Day1_Learning_Guide.2.docx)
 # KhataPe Lending Decisions: Direct Answers vs Chain-of-Thought Prompting
 
 
